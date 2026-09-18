@@ -2,9 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Peter+Sapountzis;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### An amateur full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning
+- 🎓 Electrical and Computer Engineering student at Aristotle University of Thessaloniki (AUTh)
 - 💬 Ask me about **Java, Python, C...or anything** **[here](https://github.com/Petersap4/Petersap4/issues)**
 
 <br>
