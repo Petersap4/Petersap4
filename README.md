@@ -30,7 +30,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,nodejs,react,python,c,cpp" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=matlab,html,css,js,git,figma,illustrator,photoshop" />
 </p>
 
 <hr>
